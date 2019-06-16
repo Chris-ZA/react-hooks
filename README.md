@@ -1,2 +1,3 @@
 # react-hooks
-A demo project to learn React hooks.
+A demo repo to learn React hooks.
+
